@@ -3,9 +3,9 @@
 Tugas praktikum Pertemuan 2 - Pemrograman Mobile.
 
 ## 📸 Tangkapan Layar
-![Pratinjau Aplikasi]
+[Pratinjau Aplikasi]
 
-(<img width="720" height="1600" alt="WhatsApp Image 2026-04-17 at 11 19 46" src="https://github.com/user-attachments/assets/1ded6e02-db29-4a15-a69f-f458c549d6ce" />)
+<img width="720" height="1600" alt="WhatsApp Image 2026-04-17 at 11 19 46" src="https://github.com/user-attachments/assets/1ded6e02-db29-4a15-a69f-f458c549d6ce" />
 
 ## 🛠️ Tumpukan Teknologi
 - **Framework:** React Native (Expo SDK 50)
