@@ -1,6 +1,6 @@
-# Proyek: Kartu Nama Digital 🪪
+# Proyek: THE SECURE GUARD 🛡️
 
-Tugas praktikum Pertemuan 2 - Pemrograman Mobile.
+Tugas praktikum Pertemuan 5 - Pemrograman Mobile.
 
 ## 📸 Tangkapan Layar
 [Pratinjau Aplikasi]
