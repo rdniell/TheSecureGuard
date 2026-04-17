@@ -16,3 +16,6 @@ Tugas praktikum Pertemuan 2 - Pemrograman Mobile.
 1. Kloning repositori ini.
 2. Jalankan `npm install`.
 3. Jalankan `npx expo start`.
+
+## 🙌 Snack Expo
+https://snack.expo.dev/@niell77/the-secure-guard?platform=web
